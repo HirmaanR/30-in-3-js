@@ -8,4 +8,4 @@ I want to solve all the questions in the [30 Days of JavaScript](https://leetcod
 ![2623](./img/2623.png)
 
 ### 2677
-![2623](./img/2623.png)
+![2677](./img/2677.png)
