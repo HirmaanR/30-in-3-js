@@ -3,3 +3,4 @@ I want to solve all the questions in the [30 Days of JavaScript](https://leetcod
 
 
 ![2634](./img/2634.png)
+![2623](./img/2623.png)
