@@ -9,3 +9,6 @@ I want to solve all the questions in the [30 Days of JavaScript](https://leetcod
 
 ### 2677
 ![2677](./img/2677.png)
+
+### 2625
+![2625](./img/2625.png)
