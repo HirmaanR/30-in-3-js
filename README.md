@@ -12,3 +12,6 @@ I want to solve all the questions in the [30 Days of JavaScript](https://leetcod
 
 ### 2625
 ![2625](./img/2625.png)
+
+### 2695
+![2695](./img/2695.png)
